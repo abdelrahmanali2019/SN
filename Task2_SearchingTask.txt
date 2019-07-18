@@ -1,0 +1,15 @@
+List--> A list contains ordered or unordered items which u insert and those items display 1 item per line.
+u can use <ul> to make unordered list and <li> to insert each item in the list or u can use <ol> for ordered list and <li> to insert each item in this list.
+Table-->Table contains information which can be divided into sections
+to make a table u can use <table> and u can use <tr> for each row in the table and u can use <th> for the header
+iframes--> it's used to display a web page through another one
+to use it u can use <iframe src="url"></iframe>
+id-->it creates a unique id for an html element which can be used later by css or JS
+for example <h1 id="Smth">we just did it</h1>
+class-->it makes equal styles for all the elements within this class
+and we can use it like this <style> C{ background-color:black; } </style>
+here we specified the style
+now when we want to use it we do that 
+<div class="C">
+	<h2>Mark</h2>
+</div>
