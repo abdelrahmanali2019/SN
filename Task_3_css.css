@@ -1,0 +1,53 @@
+ul{
+    padding: 0;
+    list-style-type:none;
+    margin: 0;
+    display: inline-table;
+}
+li a{
+    display:table;
+    text-decoration:none;
+    background-color:aqua;
+    color: white;
+    font-size:30px;
+    text-align:fixed;
+    padding-left: 100px;
+    padding:3px 174px;
+}
+
+li{
+    float:left;
+}
+#Section1{
+}
+#Section1 h1{
+    color:teal;
+    font-size: 100px;
+    text-align-last: center;
+    font-family:fantasy;
+    position: relative;
+    top: 300px;
+}
+#Section2 table{
+     font-family: sans-serif;
+    border-collapse: collapse;
+    width:50%;
+    float:left;
+    
+}
+#Section2 td, th{
+     border: 1px solid #dddddd;
+    text-align: left;
+    padding:8px;
+}
+#Section3{
+}
+#Section4{
+      position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: red;
+   color: white;
+   text-align: center;
+}
